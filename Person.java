@@ -49,5 +49,8 @@ public class Person {
         else
             return false;
     }
+        public static void main(String[] args) {
+
+    }
 
 }
